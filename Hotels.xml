@@ -73,4 +73,44 @@
     <Phone>480-777-1111</Phone>
     <Address>
       <Number>22</Number>
-      <Street>Southern Ave</Stree
+      <Street>Southern Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Residence Inn</Name>
+    <Phone>480-888-2222</Phone>
+    <Address>
+      <Number>55</Number>
+      <Street>McClintock Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Hampton Inn</Name>
+    <Phone>602-000-9999</Phone>
+    <Phone>877-222-4444</Phone>
+    <Address>
+      <Number>90</Number>
+      <Street>Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>Sheraton</Name>
+    <Phone>480-999-8888</Phone>
+    <Address>
+      <Number>10</Number>
+      <Street>Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85287</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
